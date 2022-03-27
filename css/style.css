@@ -406,9 +406,6 @@
     height: 220px;
   }
 }
-.heading__right:hover {
-  transform: rotate(5deg);
-}
 
 .reimagining {
   margin-top: 50px;
